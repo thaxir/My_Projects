@@ -1,0 +1,57 @@
+Enter vehicle type: PAY  1.25
+> PAY  0.25 more
+> Amount Received: 3.00 euro
+Change:
+1 of 1 euro
+7 of 10 cents
+5 of 1 cent
+Enter vehicle type: PAY  2.35
+> Amount Received: 5.00 euro
+Change:
+2 of 1 euro
+6 of 10 cents
+5 of 1 cent
+Enter vehicle type: PAY  8.40
+> Amount Received: 50.00 euro
+Change:
+2 of 20 euro
+1 of 1 euro
+6 of 10 cents
+Enter vehicle type: PAY 16.50
+> Amount Received: 21.50 euro
+Change:
+1 of 5 euro
+Enter vehicle type: PAY 16.50
+> PAY  1.50 more
+> Amount Received: 17.10 euro
+Change:
+6 of 10 cents
+Enter vehicle type: PAY 16.50
+> Amount Received: 16.60 euro
+Change:
+1 of 10 cents
+Enter vehicle type: PAY  2.35
+> PAY  0.35 more
+> Amount Received: 2.36 euro
+Change:
+1 of 1 cent
+Enter vehicle type: PAY  1.25
+> Amount Received: 2.05 euro
+Change:
+8 of 10 cents
+Enter vehicle type: PAY  2.35
+> Amount Received: 42.35 euro
+Change:
+2 of 20 euro
+Enter vehicle type: PAY  1.25
+> Amount Received: 11.26 euro
+Change:
+2 of 5 euro
+1 of 1 cent
+Enter vehicle type: 
+Number of vehicles:      10
+       Motorcycles:    3.75
+              Cars:    7.05
+             Buses:   49.50
+            Trucks:    8.40
+             Total:   68.70

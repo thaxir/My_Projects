@@ -1,0 +1,15 @@
+Enter vehicle type: PAY  1.25
+> Change: 0
+Enter vehicle type: PAY  2.35
+> Change: 0
+Enter vehicle type: PAY  8.40
+> Change: 0
+Enter vehicle type: PAY 16.50
+> Change: 0
+Enter vehicle type: 
+Number of vehicles:       4
+       Motorcycles:    1.25
+              Cars:    2.35
+             Buses:   16.50
+            Trucks:    8.40
+             Total:   28.50

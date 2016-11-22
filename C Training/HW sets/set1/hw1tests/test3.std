@@ -1,0 +1,14 @@
+Enter vehicle type: PAY  2.35
+> Amount Received: 20.00 euro
+Change:
+3 of 5 euro
+2 of 1 euro
+6 of 10 cents
+5 of 1 cent
+Enter vehicle type: 
+Number of vehicles:       1
+       Motorcycles:    0.00
+              Cars:    2.35
+             Buses:    0.00
+            Trucks:    0.00
+             Total:    2.35
