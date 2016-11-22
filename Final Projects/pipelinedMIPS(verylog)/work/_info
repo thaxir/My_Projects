@@ -1,0 +1,324 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/Users/user/Desktop/ergastirio/lab4/lab4
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+vALU
+Z1 !s110 1389876968
+!i10b 1
+!s100 2geRlFCXNAoIzZkYnCfK20
+Ia=?5fm9aoE=Hf@<LeP@FK2
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+Z3 dC:/Users/user/Desktop/ergastirio/lab4/lab4
+Z4 w1389876204
+Z5 8C:/Users/user/Desktop/ergastirio/lab4/lab4/lab7_library.v
+Z6 FC:/Users/user/Desktop/ergastirio/lab4/lab4/lab7_library.v
+L0 10
+Z7 OP;L;10.2c;57
+r1
+!s85 0
+31
+Z8 !s108 1389876968.147000
+Z9 !s107 constants.h|C:/Users/user/Desktop/ergastirio/lab4/lab4/testbench_input.v|C:/Users/user/Desktop/ergastirio/lab4/lab4/pipeline_regs.v|C:/Users/user/Desktop/ergastirio/lab4/lab4/lab7_library.v|C:/Users/user/Desktop/ergastirio/lab4/lab4/hazardUnit.v|C:/Users/user/Desktop/ergastirio/lab4/lab4/forwardingUnit.v|C:/Users/user/Desktop/ergastirio/lab4/lab4/DataMemory.v|C:/Users/user/Desktop/ergastirio/lab4/lab4/cpu.v|C:/Users/user/Desktop/ergastirio/lab4/lab4/control.v|C:/Users/user/Desktop/ergastirio/lab4/lab4/bigMux.v|C:/Users/user/Desktop/ergastirio/lab4/lab4/alu_control.v|
+Z10 !s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/ergastirio/lab4/lab4/alu_control.v|C:/Users/user/Desktop/ergastirio/lab4/lab4/bigMux.v|C:/Users/user/Desktop/ergastirio/lab4/lab4/control.v|C:/Users/user/Desktop/ergastirio/lab4/lab4/cpu.v|C:/Users/user/Desktop/ergastirio/lab4/lab4/DataMemory.v|C:/Users/user/Desktop/ergastirio/lab4/lab4/forwardingUnit.v|C:/Users/user/Desktop/ergastirio/lab4/lab4/hazardUnit.v|C:/Users/user/Desktop/ergastirio/lab4/lab4/lab7_library.v|C:/Users/user/Desktop/ergastirio/lab4/lab4/pipeline_regs.v|C:/Users/user/Desktop/ergastirio/lab4/lab4/testbench_input.v|
+!s101 -O0
+Z11 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -O0
+n@a@l@u
+vALUControl
+R1
+!i10b 1
+!s100 `5C8JW;Vif1Te6:`f9FaM3
+I33TIQI]aQM55FALEYoZVm1
+R2
+R3
+w1389874155
+8C:/Users/user/Desktop/ergastirio/lab4/lab4/alu_control.v
+FC:/Users/user/Desktop/ergastirio/lab4/lab4/alu_control.v
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+n@a@l@u@control
+vBIGMUX2
+R1
+!i10b 1
+!s100 e@JOLCRa6WO`]Nef<BURd2
+IPPR7l_Efik]M@aLd1Rn=i1
+R2
+R3
+w1389874613
+8C:/Users/user/Desktop/ergastirio/lab4/lab4/bigMux.v
+FC:/Users/user/Desktop/ergastirio/lab4/lab4/bigMux.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+n@b@i@g@m@u@x2
+vControl
+R1
+!i10b 1
+!s100 `>kg3LZA4a]^9azBB;XB;2
+I7Y0Ol5B7Xnm0hfCHFRMXn2
+R2
+R3
+w1389875431
+8C:/Users/user/Desktop/ergastirio/lab4/lab4/control.v
+FC:/Users/user/Desktop/ergastirio/lab4/lab4/control.v
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+n@control
+vcpu
+R1
+!i10b 1
+!s100 <5SUUjZhQgj[R3a:nj9V?0
+IALm70KkQUEOcYL<:G7e8_0
+R2
+R3
+w1389876821
+8C:/Users/user/Desktop/ergastirio/lab4/lab4/cpu.v
+FC:/Users/user/Desktop/ergastirio/lab4/lab4/cpu.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+vDATAMEM
+R1
+!i10b 1
+!s100 bSLEb@IhCa>Yz<83o>:bT1
+IlihL]3Ne77>7;fH97jUAk3
+R2
+R3
+w1389822592
+8C:/Users/user/Desktop/ergastirio/lab4/lab4/DataMemory.v
+FC:/Users/user/Desktop/ergastirio/lab4/lab4/DataMemory.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+n@d@a@t@a@m@e@m
+vEXMEM
+R1
+!i10b 1
+!s100 ;APR<S=cYd0I`DcMI_38`1
+I>i3OiALd0`[TblCQIDZ[g2
+R2
+R3
+Z12 w1389875577
+Z13 8C:/Users/user/Desktop/ergastirio/lab4/lab4/pipeline_regs.v
+Z14 FC:/Users/user/Desktop/ergastirio/lab4/lab4/pipeline_regs.v
+L0 80
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+n@e@x@m@e@m
+vForwardUnit
+R1
+!i10b 1
+!s100 ^I2C5;ZF4iVH4RUV;U_461
+IzBbS=hA72[[0?ol^W]F_W0
+R2
+R3
+w1389875565
+8C:/Users/user/Desktop/ergastirio/lab4/lab4/forwardingUnit.v
+FC:/Users/user/Desktop/ergastirio/lab4/lab4/forwardingUnit.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+n@forward@unit
+vHazardUnit
+R1
+!i10b 1
+!s100 2EVdU1Ad_aZ@WNeMRaggG1
+IA5F=MDCRFa7<BaHY6TADh0
+R2
+R3
+w1389875513
+8C:/Users/user/Desktop/ergastirio/lab4/lab4/hazardUnit.v
+FC:/Users/user/Desktop/ergastirio/lab4/lab4/hazardUnit.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+n@hazard@unit
+vIDEX
+R1
+!i10b 1
+!s100 fl4fI[mOMedPTN;zFH=Vk2
+IQXc7L;4I@Wgh:cJb;_;MJ2
+R2
+R3
+R12
+R13
+R14
+L0 30
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+n@i@d@e@x
+vIFID
+R1
+!i10b 1
+!s100 :21SdTFn[TQa]a]U76eRo3
+IUC::[Ta_A;:6j=XkP^gZD2
+R2
+R3
+R12
+R13
+R14
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+n@i@f@i@d
+vInstructMem
+R1
+!i10b 1
+!s100 5[T@0=f_E]jCLjleZBBPL3
+I:]no0YNK46DP_PDZCH7dM0
+R2
+R3
+R4
+R5
+R6
+L0 54
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+n@instruct@mem
+vMEMWB
+R1
+!i10b 1
+!s100 `K0V833j^=kLP2eKLnCbE2
+IYIc[QTd5hENKYbzCBM;Cd0
+R2
+R3
+R12
+R13
+R14
+L0 116
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+n@m@e@m@w@b
+vPipelined_TestBench
+R1
+!i10b 1
+!s100 OKV8<S_1T5V^i[jK^O`NW2
+IOJ=ZEZEC::KX>b7YiWVN63
+R2
+R3
+w1389876836
+8C:/Users/user/Desktop/ergastirio/lab4/lab4/testbench_input.v
+FC:/Users/user/Desktop/ergastirio/lab4/lab4/testbench_input.v
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+n@pipelined_@test@bench
+vRegisters
+R1
+!i10b 1
+!s100 Ge`Ik08]700W^P6:lf2A93
+IA`UH;Q=z[Om;;Pgihhh<n1
+R2
+R3
+R4
+R5
+R6
+L0 68
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+n@registers

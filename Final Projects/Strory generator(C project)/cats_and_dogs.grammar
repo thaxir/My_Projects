@@ -1,0 +1,38 @@
+{
+<start> 
+<subject> <verb-phrase> <adverb-phrase> ;
+}
+{
+<subject>
+The <animal> ;
+<name> ;
+}
+{
+<animal>
+cat ;
+dog ;
+}
+{
+<name>
+John  ;
+Mary  ;
+}
+{
+<verb-phrase>
+<verb> ;
+<verb> not ;
+}
+{
+<verb>
+is ;
+}
+{
+<adverb-phrase>
+behind the <place> ;
+}
+{
+<place>
+table . ;
+doghouse . ;
+sofa . ;
+}
