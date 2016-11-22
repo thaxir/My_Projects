@@ -1,0 +1,646 @@
+
+sobel_orig
+Total time =    1.20614 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =      1.206 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    1.20546 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    1.20559 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =     1.2064 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    1.20513 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    1.20599 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    1.20526 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    1.20618 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    1.20589 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =     1.2044 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    1.20445 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+
+loop_interchange
+Total time =   0.323093 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.322985 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.322921 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.323026 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.322923 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    0.32295 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.322939 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.322961 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.322981 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.322924 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.322975 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.322892 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+
+loop_unrolling
+Total time =   0.140816 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.140774 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.140813 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.140873 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.140772 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.140801 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.140818 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.140799 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.140823 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.140785 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.140826 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.140784 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+
+loop_unrolling_grammh_107
+Total time =   0.104186 seconds
+PSNR of original Sobel and computed Sobel image: 18.1474
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.104158 seconds
+PSNR of original Sobel and computed Sobel image: 18.1474
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    0.10415 seconds
+PSNR of original Sobel and computed Sobel image: 18.1474
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.104156 seconds
+PSNR of original Sobel and computed Sobel image: 18.1474
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.104173 seconds
+PSNR of original Sobel and computed Sobel image: 18.1474
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.104158 seconds
+PSNR of original Sobel and computed Sobel image: 18.1474
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.104144 seconds
+PSNR of original Sobel and computed Sobel image: 18.1474
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.104169 seconds
+PSNR of original Sobel and computed Sobel image: 18.1474
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.104173 seconds
+PSNR of original Sobel and computed Sobel image: 18.1474
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.104165 seconds
+PSNR of original Sobel and computed Sobel image: 18.1474
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    0.10419 seconds
+PSNR of original Sobel and computed Sobel image: 18.1474
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.104141 seconds
+PSNR of original Sobel and computed Sobel image: 18.1474
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+
+function_inlining_1
+Total time =   0.115736 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.115717 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.115713 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.115716 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    0.11571 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.115733 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.115709 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.115729 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.115725 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.115719 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    0.11571 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.115726 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+
+loop_unrolling_grammh_125_v1
+Total time =   0.126533 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126466 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126519 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126473 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126508 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126469 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126481 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126507 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126474 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126483 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126592 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126471 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+
+loop_unrolling_grammh_108
+Total time =   0.147081 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.147077 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.147077 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.147039 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.147057 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.147042 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.147089 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.147045 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    0.14707 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.147072 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.147094 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.147063 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+
+loop_unrolling_grammh_108_kata_4
+Total time =    0.17585 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.175786 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.175847 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.175816 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    0.17579 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.175769 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.175966 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.175852 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.175783 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.175821 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.175847 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.175852 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+
+loop_fusion_vrogxou_107_me_125
+Total time =   0.152963 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.152941 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    0.15297 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.152964 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    0.15294 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.153018 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.152942 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.152929 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.152969 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.153001 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.152966 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.152933 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+
+code_motion_v2
+Total time =   0.126502 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126484 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126483 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126503 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126496 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126497 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126473 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126492 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126483 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126475 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126506 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126475 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+
+code_motion_v1
+Total time =   0.152993 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.152957 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.152983 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    0.15295 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.152988 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.152955 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.152969 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.152926 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.152948 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.152933 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.152954 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.152943 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+
+common_sub_elimination_v1
+Total time =   0.126483 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126477 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126491 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126499 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126482 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126483 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126512 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126729 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126481 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126516 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126534 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126479 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+
+common_sub_elimination_v2
+Total time =   0.126495 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126468 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126492 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126467 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126476 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126467 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126486 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    0.12647 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126483 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126483 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126498 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126481 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+
+str_reduction_v1
+Total time =   0.126665 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126542 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126524 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126504 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    0.12653 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126566 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126518 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126521 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126517 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126521 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126535 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.126511 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+
+str_reduction_v3
+Total time =   0.116787 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.116729 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.116737 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.116728 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.116763 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.116761 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.116866 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    0.11675 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    0.11674 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.116764 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.117104 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.116749 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+
+function_inlining_v2
+Total time =   0.116694 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.116719 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.116718 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.116733 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.116693 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.116696 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.116689 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    0.11672 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.116688 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.116712 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.116679 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.116686 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+
+teliko
+Total time =   0.100969 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =    0.10095 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.100918 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.100941 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.100942 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.100937 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.100951 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.100951 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.100921 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.100968 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.100918 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
+Total time =   0.100938 seconds
+PSNR of original Sobel and computed Sobel image: inf
+A visualization of the sobel filter can be found at output_sobel.grey, or you can run 'make image' to get the jpg
